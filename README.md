@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=420FE7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Filipe+Fávero+Pimenta;I'm+23+years+old;I+am+from+Colombo,+PR;I+study+Information+Technology+Management+at+IFPR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Filipe+Fávero+Pimenta;I'm+23+years+old;I+am+from+Colombo-PR;I+study+Information+Technology+Management+at+IFPR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LipePimenta&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Filipe Fávero Pimenta GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePimenta&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LipePimenta&show_icons=true&count_private=true&hide_border=true&title_color=F3F2F4&icon_color=EEA1BE&text_color=c9d1d9&bg_color=420FE7" alt="Filipe Fávero Pimenta GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipePimenta&layout=compact&hide_border=true&title_color=F3F2F4&text_color=c9d1d9&bg_color=420FE7" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LipePimenta&bg_color=000000&color=9400D3&line=4B0082&point=9400D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LipePimenta&bg_color=000000&color=F3F2F4&line=420FE7&point=420FE7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/filipefavero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
@@ -32,11 +32,14 @@
 ### Studying in this moment:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=0D1117)&nbsp;
+![API](https://img.shields.io/badge/-API-0D1117?style=for-the-badge&logo=internet-archive&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LipePimenta}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LipePimenta}/count.svg?exclude=ip" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=420FE7&height=120&section=footer"/>
